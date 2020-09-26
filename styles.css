@@ -21,7 +21,7 @@ header {
 .menu a {
     color:white;
     font-size: 30px;
-    line-height: 78px;
+    line-height: 48px;
     text-decoration: none;
     padding-right: 50px;
     text-align: center;
@@ -54,8 +54,9 @@ header {
 
 #lista-tecnologias ul {
     color: white;
-    font-size: 46px;
+    font-size: 32px;
     line-height: 82px;
+    margin-top: 50px;
 }
 
 #lista-tecnologias li {
